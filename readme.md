@@ -3,7 +3,7 @@
 </p>
 
 # How to Start?
-[Download yelp dataset](https://www.yelp.com/dataset/download)
+[Download yelp dataset](https://www.yelp.com/dataset/download)  
 **Steps 1-4 must be run for each dataset.**
 
 # 1. Make Total Datset
