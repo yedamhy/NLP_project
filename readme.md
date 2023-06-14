@@ -32,3 +32,7 @@
 # 5. Use created Model
 - run 'pycaret_model_load_and_prediction'
 - After make ensemble model, you can load model and use.
+
+# 6. Make webpage using gradio
+- run 'webpage.ipynb'
+- The final model is available on the web page.
