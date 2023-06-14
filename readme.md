@@ -3,7 +3,7 @@
 </p>
 
 # How to Start?
-[Download dataset](https://www.yelp.com/dataset/download)
+[Download yelp dataset](https://www.yelp.com/dataset/download)
 
 # 1. Make Total Datset
 - run 'preprocess_file(make_splited_datasets).ipynb'
