@@ -22,3 +22,7 @@
 - Finally, we make final dataset that convert 'text' column to 'sentiment_score'
 - Thus, input vector was created for the ML model.
 - Ensemble model generation for 7 datasets
+
+# 5. Use created Model
+- run 'pycaret_model_load_and_prediction'
+- After make ensemble model, you can load model and use.
