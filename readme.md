@@ -4,6 +4,7 @@
 
 # How to Start?
 [Download yelp dataset](https://www.yelp.com/dataset/download)
+**Steps 1-4 must be run for each dataset.**
 
 # 1. Make Total Datset
 - run 'preprocess_file(make_splited_datasets).ipynb'
