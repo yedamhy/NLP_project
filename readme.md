@@ -2,6 +2,11 @@
   <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/232c7e24-c7c2-4a24-918b-b31db569dcc6">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/5bf8d06b-c9c6-4336-96bf-1a9768b5ec0a">
+</p>
+
+
 # How to Start?
 - [Download yelp dataset](https://www.yelp.com/dataset/download)  
 - **Steps 1-4 must be run for each dataset.**
