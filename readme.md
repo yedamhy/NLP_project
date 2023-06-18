@@ -6,6 +6,10 @@
   <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/5bf8d06b-c9c6-4336-96bf-1a9768b5ec0a">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/82055512-c09c-46fd-82d8-78edff0a6889">
+</p>
+
 
 # How to Start?
 - [Download yelp dataset](https://www.yelp.com/dataset/download)  
