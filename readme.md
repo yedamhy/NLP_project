@@ -6,10 +6,8 @@
   <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/5bf8d06b-c9c6-4336-96bf-1a9768b5ec0a">
 </p>
 
-<img width="80%" src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/82055512-c09c-46fd-82d8-78edff0a6889"/>
-
 <p align="center">
-  <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/82055512-c09c-46fd-82d8-78edff0a6889">
+  <img src="https://github.com/Bae-hong-seob/NLP_project/assets/49437396/ccb4435f-0223-4807-8558-3171d3bd2790">
 </p>
 
 
